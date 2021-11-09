@@ -1,0 +1,14 @@
+[debug] [2021-11-09T13:10:09.368Z] ----------------------------------------------------------------------
+[debug] [2021-11-09T13:10:09.370Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Shibin Khan\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-11-09T13:10:09.371Z] CLI Version:   9.20.0
+[debug] [2021-11-09T13:10:09.371Z] Platform:      win32
+[debug] [2021-11-09T13:10:09.371Z] Node Version:  v14.17.6
+[debug] [2021-11-09T13:10:09.372Z] Time:          Tue Nov 09 2021 19:10:09 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-11-09T13:10:09.372Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-09T13:10:09.427Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-09T13:10:09.428Z] > authorizing via signed-in user (khanshibin500@gmail.com)
+[debug] [2021-11-09T13:10:09.428Z] [iam] checking project doctors-portal-skb for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-11-09T13:10:09.430Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2021-11-09T13:10:09.430Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
